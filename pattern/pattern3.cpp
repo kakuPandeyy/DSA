@@ -49,7 +49,7 @@ if (t=='a')
     }
     
 }
-if (t=='b')
+else if (t=='b')
 {
   int i=1;
   while (i<=n)
